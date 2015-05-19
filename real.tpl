@@ -1,0 +1,1 @@
+test template file: (a) var = %VALUE1%
